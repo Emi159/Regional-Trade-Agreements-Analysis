@@ -1,1 +1,3 @@
 # Regional-Trade-Agreements-Analysis
+
+For this project, I work with data on regional trade agreements (RTAs) and bilateral trade flows. RTAs are legal texts negotiated and signed by countries or customs territories that regulate trade between them. They are binding agreements that establish preferential discriminatory trade regimes between two or more trading partners, not necessarily belonging to the same geographical region. All RTAs regulate trade in goods between the parties while some also regulate trade in services. The goal is to uncover key insights regarding the evolution and impact of RTAs over time, their types, and their effect on trade between countries.
